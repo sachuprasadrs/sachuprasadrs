@@ -49,16 +49,12 @@ I focus on building web applications using Python, Django, JavaScript, SQL, and 
 - Context-aware emotion detection
 - Research-oriented implementation
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sachuprasadrs&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachuprasadrs&layout=compact)
 
 ## Connect With Me
 
 - LinkedIn: https://linkedin.com/in/sachuprasadrs
-- Email: yourmail@example.com
+- Email: sachuprasadrs@gmail.com
+-Portfolio: https://sachuprasadrs.netlify.app/
 
 ---
 
