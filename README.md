@@ -54,7 +54,7 @@ I focus on building web applications using Python, Django, JavaScript, SQL, and 
 
 - LinkedIn: https://linkedin.com/in/sachuprasadrs
 - Email: sachuprasadrs@gmail.com
--Portfolio: https://sachuprasadrs.netlify.app/
+- Portfolio: https://sachuprasadrs.netlify.app/
 
 ---
 
